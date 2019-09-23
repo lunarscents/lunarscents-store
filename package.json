@@ -1,0 +1,9 @@
+{
+  "name": "lunarscents-store",
+  "version": "1.0.0",
+  "description": "eCommerce PWA Built with NextJS and GraphCMS",
+  "main": "index.js",
+  "repository": "https://github.com/lunarscents/lunarscents-store.git",
+  "author": "lunarscents <lunarscents7@gmail.com>",
+  "license": "MIT"
+}
